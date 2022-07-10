@@ -1,0 +1,15 @@
+:: StoryTitle
+Twine Starter
+
+
+:: StoryData {"position":"0,125"}
+{
+	"ifid": "61EA13F2-9410-4D0E-B0DC-B511518BE0F8",
+	"format": "SugarCube",
+	"format-version": "2.34.1",
+	"start": "Start",
+	"zoom": 1
+}
+
+
+:: StoryInit {"position":"25,425","size":"100,100"}
