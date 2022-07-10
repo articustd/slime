@@ -1,6 +1,5 @@
 :: StoryTitle
-Twine Starter
-
+Slime Game
 
 :: StoryData {"position":"0,125"}
 {
@@ -10,6 +9,5 @@ Twine Starter
 	"start": "Start",
 	"zoom": 1
 }
-
 
 :: StoryInit {"position":"25,425","size":"100,100"}
